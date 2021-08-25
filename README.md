@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![screenshoto](https://github.com/iamsmr/tic-tac-toe-flutter/blob/main/screenshoot-1.png)
+![screenshoot](https://github.com/iamsmr/tic-tac-toe-flutter/blob/main/screenshoot-2.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
